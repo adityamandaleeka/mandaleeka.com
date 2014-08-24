@@ -1,0 +1,13 @@
+# Site settings
+title: Aditya Mandaleeka
+description: "Aditya Mandaleeka"
+first_name: "Aditya"
+last_name: "Mandaleeka"
+baseurl: ""
+url: "http://mandaleeka.com/"
+github_username: "adityamandaleeka"
+twitter_username: "mandaleeka"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
