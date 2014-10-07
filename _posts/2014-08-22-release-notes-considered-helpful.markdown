@@ -15,4 +15,4 @@ I'll be the first to acknowledge that for most kinds of software, the majority o
 
 However, the kind of people who read your release notes are the ones who really care about your product. They are your evangelists, your word-of-mouth marketers, your beta testers.
 
-As developers, we should think about why when our most dedicated and engaged users are forced to turn to tech blogs to find out what has changed in our product. We have an established communication mechanism for this. Let's start using it.
+As developers, we should consider something broken when our most dedicated and engaged users are forced to turn to tech blogs to find out basic information about what has changed in our product. We have an established communication mechanism for this. Let's start using it.
