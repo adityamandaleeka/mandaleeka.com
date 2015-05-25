@@ -167,6 +167,11 @@ a:visited { color: #647E9D; }
   color: #818181;
 }
 
+.pagination .unselectable-page {
+  color: #777777;
+  display: inline;
+}
+
 
 /* Post styles */
 /* ----------------------------------------------------------*/
