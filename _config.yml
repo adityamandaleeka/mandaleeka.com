@@ -12,3 +12,6 @@ paginate: 5
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Gems
+gems: [jekyll-paginate]
