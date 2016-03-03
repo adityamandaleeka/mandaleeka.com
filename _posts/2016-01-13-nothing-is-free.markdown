@@ -2,7 +2,7 @@
 layout: post
 title:  "Nothing is free"
 date:   2016-01-11 18:59:20
-categories: performance development
+categories: performance
 ---
 
 As programmers, we are constantly standing on the shoulders of others. Whether you're writing client-side web stuff or a kernel-mode driver, you have to build a reasonable mental model of the layer below you and proceed based on that model. If that mental model is too vague, you won't get anywhere, and if you try to understand every minor detail of every layer that's below you, you will never get started on solving your actual problem. Striking a balance here is key, but sometimes it's hard to know what's important and what's not.
