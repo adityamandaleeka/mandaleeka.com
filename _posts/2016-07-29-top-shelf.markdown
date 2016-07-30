@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "The top shelf"
+date:   2016-07-29 18:59:20
+categories: life
+---
+
+In case you haven't noticed, the internet is kind of amazing. Not only do you have the sum of all human knowledge available 24/7, but you can also instantly communicate with people around the world, possibly while also watching [videos of 80's Russian Winnie the Pooh](https://www.youtube.com/watch?v=bEwE4wyz00o) and 'mining' this week's flavor of cryptocurrency, all in the comfort of your own home.
+
+Really, it's all pretty great. And as for how to deal with that massive pile of information that no person could possibly go through in a dozen lifetimes, we've come up with a solution for that too. You simply go to a link aggregation site of your choice, where a community of intrepid internet grazers has collectively determined what the best links of the moment are so you can maximize the pleasure:time ratio of your browsing session. Oh, and don't worry about having to think critically about what you're reading. You can just read the comments which (surprise!) are also sorted best-first so you can know how you should feel about this thing without even having to read beyond the title. Great, right? 
+
+Food is a similar story. Now in the old days, you probably tried out a few local pizza places to find out what you like the best. No more, friend. Just type 'pizza' into a textbox and we'll show you the best pizza place in your state as rated by thousands of people who surely are just like you in aggregate. Why be constrained to the confines of your locality or the limits of first-hand experience? You deserve The Best&trade;[^best].
+
+I could go on, but you get the idea.
+
+The amount of information that we have available to us is remarkable and has great potential, but in a world where everything has 'sort by rating' functionality, it feels like we're all reading, eating, watching, and doing the same 14 things...
+
+...except those who aren't. You see, in the same way the internet lets you find the ultimate (or 'penultimate' for those who don't know what that word means) version of everything after pitting it head-to-head against its peers, it also lets you find the ultimate version of people who share your beliefs. And, as with the pizza and the links, it's not limited by geographical boundaries. So whether you enjoy woodworking or restoring classic RVs, you'll find entire communities of people who share your passion. In fact, there are likely to be people in those communities who have dedicated their lives to that passion and whose knowledge and skill is superlative. Suddenly, you go from being 'the RV guy' in your neighborhood to being just an average member of this RV group.
+
+Now, imagine your passion is something other than RVs. Let's say instead that you have a keen interest in contrails or perhaps, uh, in the melting points of various kinds of construction material. Having a nuanced conversation about these things with real people you know is so last century. Instead you can now spend your time reading and commenting on stuff that's already sorted by how perfectly it reinforces your pre-existing beliefs, and how well it reduces those with contradictory viewpoints to one-dimensional caricatures just waiting for your ridicule. It's much easier to feel good about yourself this way.
+
+It's a bit of a paradox, really. Here we are in the most technologically advanced and connected period the world has ever known, with virtually no limits on the information we can access, and yet all of the tools we've built funnel us ever narrower into content which is supposedly The Best but in reality is only valuable because it reinforces our beliefs and strokes our sense of self.
+
+[^best]: Sometimes "The Best" may have paid to be called that, but we'll ignore that for now.
